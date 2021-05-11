@@ -16,7 +16,7 @@ used with the `isPrime` method.
 #include "primes.h"
 
 int main() {
-    std::cout << isPrime(67108859) << std::endl; // True
+    std::cout << isPrime(70368744177643) << std::endl; // True
 }
 ```
 
