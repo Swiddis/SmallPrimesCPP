@@ -24,3 +24,7 @@ Note that due to overflow, results can be inaccurate for n near 2^64.
 
 Alternatively, if you just want to grab a method & go, check out small_primes.cpp for a quick
 implementation of the naive method.
+
+# I need to check larger primes!
+
+Look elsewhere. People much smarter than I am have written things much faster than I did.
