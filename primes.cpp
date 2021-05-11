@@ -1,4 +1,4 @@
-#include <vector>
+#include "primes.h"
 
 // Hardcoded bases for Miller-Rabin tests.
 const std::vector<std::vector<uint_fast64_t>> MR_BASES = {
