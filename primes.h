@@ -2,6 +2,7 @@
 #define PRIMES_H
 
 #include <vector>
+#include <cstdint>
 
 bool isPrime(uint_fast64_t);
 bool isPrime(uint_fast32_t);
