@@ -4,7 +4,7 @@
 This "library" is an implementation of Miller-Rabin prime testing for unsigned 64-bit integers.
 The implementation is largely inspired by SymPy's prime checker. I wrote this and put it up because
 I wanted something faster than the naive method (found in small_primes.cpp) but that I could just
-throw in a project and use. This is about 10x as fast as the naive method for counting primes below 2^26.
+throw in a project and use. This is about 10x as fast as the naive method when ran on all numbers below 2^26.
 
 # Usage
 
